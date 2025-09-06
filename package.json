@@ -1,6 +1,6 @@
 {
     "name": "yujf-sequelize.ext",
-    "version": "3.0.9",
+    "version": "1.0.1",
     "description": "mkck data from yaml",
     "author": {
         "name": "yujinfeng",
@@ -17,6 +17,7 @@
         "access": "public"
     },
     "dependencies": {
-        "@sequelize/core": "^7.0.0-alpha.46"
+        "@sequelize/core": "^7.0.0-alpha.46",
+        "yaml": "^2.8.1"
     }
 }
